@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> Soirée chez Albert - Commentaires</title>
+  <description></description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1041454222_comment_1.html#c-2306596478" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1041454222_comment_1.html#c-2306596478">
+		<title>Commentaire de Jup</title>
+				<link>https://fotoxx.skyrock.com/1041454222_comment_1.html#c-2306596478</link>
+		<dc:date>2007-07-04T11:45:42+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Jup</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Un tueur ce gars :D
+KATOEN&lt;3</description>
+		<content:encoded><![CDATA[
+			Un tueur ce gars :D<br />
+KATOEN&lt;3
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> Soirée Eject 4 - Annif&#039; Gary et Thibault - Commentaires</title>
+  <description>Moi j&#039;ai dit à ma mère que j&#039;dormais sur un terrain d&#039;foot!</description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1027836720_comment_1.html#c-2214159568" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1027836720_comment_1.html#c-2213811384" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1027836720_comment_1.html#c-2212737570" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1027836720_comment_1.html#c-2214159568">
+		<title>Commentaire de Lud</title>
+				<link>https://fotoxx.skyrock.com/1027836720_comment_1.html#c-2214159568</link>
+		<dc:date>2007-06-26T15:56:17+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Lud</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Nous c&#039;était devant la maison de Thibault mais pas de Photo... 
+</description>
+		<content:encoded><![CDATA[
+			Nous c&#039;était devant la maison de Thibault mais pas de Photo... <br />
+
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1027836720_comment_1.html#c-2213811384">
+		<title>Commentaire de Jup</title>
+				<link>https://fotoxx.skyrock.com/1027836720_comment_1.html#c-2213811384</link>
+		<dc:date>2007-06-26T15:29:17+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Jup</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Faut prendre une photo de la place de Wemmelle où on aura attendu au moins deux heures avant de monter à 9 + 1 chien dans une voiture :D
+&lt;3</description>
+		<content:encoded><![CDATA[
+			Faut prendre une photo de la place de Wemmelle où on aura attendu au moins deux heures avant de monter à 9 + 1 chien dans une voiture :D<br />
+&lt;3
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1027836720_comment_1.html#c-2212737570">
+		<title>Commentaire de Lena</title>
+				<link>https://fotoxx.skyrock.com/1027836720_comment_1.html#c-2212737570</link>
+		<dc:date>2007-06-26T14:10:49+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Lena</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Ahaa :D</description>
+		<content:encoded><![CDATA[
+			Ahaa :D
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title>  Allez Albert =D  - Commentaires</title>
+  <description>Quand j&#039;arrive dans un café
+Moi c&#039;est recta une bière comptoir
+Un paquet de Saint-Michel
+Et cent balles au trek billard
+
+Alleï c&#039;est quoi l&#039;ambiance ici !
+On s&#039;croirait dans un corbillard
+Je suis zat comme un camion
+J&#039;ai déjà bu comme une passoire
+
+M&#039;enfin un peu les gars
+On est quand même ici pour boire
+C&#039;est pas un monastère
+Potverdeke on est dans un bar
+
+Refrain
+Allez Roger scheille arrangé
+Vollenbak par terre
+On a rien d&#039;autre à faire
+Tous avec Roger, complètement beurrés
+Archiplein remplis de bière jusqu&#039;à quand c&#039;qu&#039;on nous enterre
+
+Un p&#039;tit tour dans les coulisses
+Une bonne petite pisse
+Serrer la main du musicien
+Dire bonjour au père de mon fils Aïe ouille quelle histoire
+La moitié dans mon falzar
+Retour sur la piste
+Bon, je remballe ma saucisse
+
+Solo !
+
+(Refrain)
+
+Je commence une farandole
+En avant tout le café
+Prêts ! Jugez aux vestiaires
+On est pas des constipés
+
+Allez, tournée générale
+Pour ceux qui savent encore marcher
+Maintenant, c&#039;est parti
+On buvera jusqu&#039;à midi
+
+Ouééé !
+
+(Refrain)</description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

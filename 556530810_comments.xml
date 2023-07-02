@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> Louise Attaque - Commentaires</title>
+  <description></description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/556530810_comment_1.html#c-891036703" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/556530810_comment_1.html#c-877669235" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/556530810_comment_1.html#c-858894725" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/556530810_comment_1.html#c-891036703">
+		<title>Commentaire de martin</title>
+				<link>https://fotoxx.skyrock.com/556530810_comment_1.html#c-891036703</link>
+		<dc:date>2006-09-16T20:11:25+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>martin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>j&#039;aiiiiiiiiiiiiime...&lt;3 &lt;3</description>
+		<content:encoded><![CDATA[
+			j&#039;aiiiiiiiiiiiiime...&lt;3 &lt;3
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/556530810_comment_1.html#c-877669235">
+		<title>Commentaire de Ju</title>
+				<link>https://fotoxx.skyrock.com/556530810_comment_1.html#c-877669235</link>
+		<dc:date>2006-09-06T20:07:10+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Ju</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>La plus belle des photos quand même &lt;3</description>
+		<content:encoded><![CDATA[
+			La plus belle des photos quand même &lt;3
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/556530810_comment_1.html#c-858894725">
+		<title>Commentaire de chaa</title>
+				<link>https://fotoxx.skyrock.com/556530810_comment_1.html#c-858894725</link>
+		<dc:date>2006-08-27T18:25:45+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>chaa</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>&lt;3 &lt;3 &lt;3 &lt;3</description>
+		<content:encoded><![CDATA[
+			&lt;3 &lt;3 &lt;3 &lt;3
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

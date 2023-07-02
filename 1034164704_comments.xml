@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> Exellent - Commentaires</title>
+  <description></description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1034164704_comment_1.html#c-3038492366" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2727826344" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2280303408" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2271999256" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2244435626" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1034164704_comment_1.html#c-3038492366">
+		<title>Commentaire de Robin</title>
+				<link>https://fotoxx.skyrock.com/1034164704_comment_1.html#c-3038492366</link>
+		<dc:date>2007-09-10T18:08:07+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Robin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Tetr&#039; pcq on s&#039;connaît pas xD Byyye</description>
+		<content:encoded><![CDATA[
+			Tetr&#039; pcq on s&#039;connaît pas xD Byyye
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2727826344">
+		<title>Commentaire de ..</title>
+				<link>https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2727826344</link>
+		<dc:date>2007-08-14T01:21:21+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>..</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>tes canon , pourquoi on sortir</description>
+		<content:encoded><![CDATA[
+			tes canon , pourquoi on sortir
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2280303408">
+		<title>Commentaire de Booob</title>
+				<link>https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2280303408</link>
+		<dc:date>2007-07-02T12:48:52+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Booob</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Rhaaa jt&#039;emmerde vieille bique =D
+Et puis d&#039;abord &quot;j&#039;en ai marre d&#039;être aussi beau, plus personne me lâche&quot; xD
+:)</description>
+		<content:encoded><![CDATA[
+			Rhaaa jt&#039;emmerde vieille bique =D<br />
+Et puis d&#039;abord &quot;j&#039;en ai marre d&#039;être aussi beau, plus personne me lâche&quot; xD<br />
+:)
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2271999256">
+		<title>Commentaire de Lulue</title>
+				<link>https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2271999256</link>
+		<dc:date>2007-07-01T18:20:59+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Lulue</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>OUsheeen !! =D</description>
+		<content:encoded><![CDATA[
+			OUsheeen !! =D
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2244435626">
+		<title>Commentaire de Lenaa</title>
+				<link>https://fotoxx.skyrock.com/1034164704_comment_1.html#c-2244435626</link>
+		<dc:date>2007-06-28T23:18:17+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Lenaa</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Vieux Bouc xD
+Et dmain on voit Alex Turner :D :p
+</description>
+		<content:encoded><![CDATA[
+			Vieux Bouc xD<br />
+Et dmain on voit Alex Turner :D :p<br />
+
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

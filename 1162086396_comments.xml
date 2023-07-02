@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> Soirée chez Charlotte - Commentaires</title>
+  <description></description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1162086396_comment_1.html#c-2981705316" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1162086396_comment_1.html#c-2888860836" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1162086396_comment_1.html#c-2981705316">
+		<title>Commentaire de monsieur qui a fait dans un kayack </title>
+				<link>https://fotoxx.skyrock.com/1162086396_comment_1.html#c-2981705316</link>
+		<dc:date>2007-09-04T13:53:21+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>monsieur qui a fait dans un kayack </dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>yeeeeeeeeep ma fesse ......</description>
+		<content:encoded><![CDATA[
+			yeeeeeeeeep ma fesse ......
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1162086396_comment_1.html#c-2888860836">
+		<title>Commentaire de Mr. je fais lamour dans un kayak sur leau</title>
+				<link>https://fotoxx.skyrock.com/1162086396_comment_1.html#c-2888860836</link>
+		<dc:date>2007-08-28T12:38:33+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Mr. je fais lamour dans un kayak sur leau</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Yaaah ma fesse =D</description>
+		<content:encoded><![CDATA[
+			Yaaah ma fesse =D
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

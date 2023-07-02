@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> Soirée chez Charlotte - Commentaires</title>
+  <description></description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/556899644_comment_1.html#c-877665657" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/556899644_comment_1.html#c-861236491" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/556899644_comment_1.html#c-858885328" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/556899644_comment_1.html#c-877665657">
+		<title>Commentaire de Ju</title>
+				<link>https://fotoxx.skyrock.com/556899644_comment_1.html#c-877665657</link>
+		<dc:date>2006-09-06T20:05:40+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Ju</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>J&#039;ai jamais compris ce que c&#039;était nan plus vous en faitent pas ^^</description>
+		<content:encoded><![CDATA[
+			J&#039;ai jamais compris ce que c&#039;était nan plus vous en faitent pas ^^
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/556899644_comment_1.html#c-861236491">
+		<title>Commentaire de Lena</title>
+				<link>https://fotoxx.skyrock.com/556899644_comment_1.html#c-861236491</link>
+		<dc:date>2006-08-28T19:57:59+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Lena</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Me Too !
+Uuh..chouette photo :p</description>
+		<content:encoded><![CDATA[
+			Me Too !<br />
+Uuh..chouette photo :p
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/556899644_comment_1.html#c-858885328">
+		<title>Commentaire de chaa</title>
+				<link>https://fotoxx.skyrock.com/556899644_comment_1.html#c-858885328</link>
+		<dc:date>2006-08-27T18:21:30+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>chaa</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>waaw improvisation c&#039;est magique ^^ bien bien 
+[ I LOVE MOCHITOS ]</description>
+		<content:encoded><![CDATA[
+			waaw improvisation c&#039;est magique ^^ bien bien <br />
+[ I LOVE MOCHITOS ]
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> Apres 4h - Commentaires</title>
+  <description> </description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/574752470_comment_1.html#c-886966924" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/574752470_comment_1.html#c-886898093" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/574752470_comment_1.html#c-886634245" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/574752470_comment_1.html#c-886966924">
+		<title>Commentaire de Lena</title>
+				<link>https://fotoxx.skyrock.com/574752470_comment_1.html#c-886966924</link>
+		<dc:date>2006-09-13T19:50:23+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Lena</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Fun&#039; =D</description>
+		<content:encoded><![CDATA[
+			Fun&#039; =D
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/574752470_comment_1.html#c-886898093">
+		<title>Commentaire de Ju</title>
+				<link>https://fotoxx.skyrock.com/574752470_comment_1.html#c-886898093</link>
+		<dc:date>2006-09-13T19:20:57+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Ju</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Vazyyy insulte pas :p chui pas une pute :p juste une ronii :D et fiere (h) :p jtmmmmm&lt;3</description>
+		<content:encoded><![CDATA[
+			Vazyyy insulte pas :p chui pas une pute :p juste une ronii :D et fiere (h) :p jtmmmmm&lt;3
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/574752470_comment_1.html#c-886634245">
+		<title>Commentaire de Charlotte</title>
+				<link>https://fotoxx.skyrock.com/574752470_comment_1.html#c-886634245</link>
+		<dc:date>2006-09-13T17:19:43+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Charlotte</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>J&#039;adore cette photo elle me fait trop rire =D
+Et apres sa c moi la pute anglaise n°1 ? =P</description>
+		<content:encoded><![CDATA[
+			J&#039;adore cette photo elle me fait trop rire =D<br />
+Et apres sa c moi la pute anglaise n°1 ? =P
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

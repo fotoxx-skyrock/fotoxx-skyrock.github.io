@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> parc - Commentaires</title>
+  <description></description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/873130470_comment_1.html#c-1751761944" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/873130470_comment_1.html#c-1669489340" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/873130470_comment_1.html#c-1751761944">
+		<title>Commentaire de Ju</title>
+				<link>https://fotoxx.skyrock.com/873130470_comment_1.html#c-1751761944</link>
+		<dc:date>2007-05-14T18:18:21+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Ju</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Jte le preterai hein :D
+Pour faire craquer Nico :D</description>
+		<content:encoded><![CDATA[
+			Jte le preterai hein :D<br />
+Pour faire craquer Nico :D
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/873130470_comment_1.html#c-1669489340">
+		<title>Commentaire de arti-chaud</title>
+				<link>https://fotoxx.skyrock.com/873130470_comment_1.html#c-1669489340</link>
+		<dc:date>2007-05-06T09:47:43+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>arti-chaud</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Yooo! ton Top Canoooonnnnn !
+
+=)
+
+jtaiime</description>
+		<content:encoded><![CDATA[
+			Yooo! ton Top Canoooonnnnn !<br />
+<br />
+=)<br />
+<br />
+jtaiime
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

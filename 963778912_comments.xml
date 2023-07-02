@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title>  &#039;06 - &#039;07     &lt;3   - Commentaires</title>
+  <description></description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2124381462" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2113864708" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2097642880" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2097088966" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2083049742" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2071727208" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2069378318" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2060913536" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2057448370" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2056785040" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2124381462">
+		<title>Commentaire de magikabouh</title>
+				<link>https://fotoxx.skyrock.com/963778912_comment_1.html#c-2124381462</link>
+		<dc:date>2007-06-18T14:17:03+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>magikabouh</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>C&#039;est bon j&#039;avais compris :&#039;D</description>
+		<content:encoded><![CDATA[
+			C&#039;est bon j&#039;avais compris :&#039;D
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2113864708">
+		<title>Commentaire de Bob </title>
+				<link>https://fotoxx.skyrock.com/963778912_comment_1.html#c-2113864708</link>
+		<dc:date>2007-06-17T16:01:07+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Bob </dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>C&#039;est mon dexième nom =D Robin- lèJean =D Merci Gary-kiki :D</description>
+		<content:encoded><![CDATA[
+			C&#039;est mon dexième nom =D Robin- lèJean =D Merci Gary-kiki :D
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2097642880">
+		<title>Commentaire de gary</title>
+				<link>https://fotoxx.skyrock.com/963778912_comment_1.html#c-2097642880</link>
+		<dc:date>2007-06-16T11:18:21+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>gary</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>put1 les gens vous etes exellent :)
+</description>
+		<content:encoded><![CDATA[
+			put1 les gens vous etes exellent :)<br />
+
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2097088966">
+		<title>Commentaire de Robinou</title>
+				<link>https://fotoxx.skyrock.com/963778912_comment_1.html#c-2097088966</link>
+		<dc:date>2007-06-16T10:31:18+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Robinou</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Ouiii j&#039;me souviens que j&#039;me suis enfui par là pcq la femme de ménage était là =D Bordel ca m&#039;revient xD</description>
+		<content:encoded><![CDATA[
+			Ouiii j&#039;me souviens que j&#039;me suis enfui par là pcq la femme de ménage était là =D Bordel ca m&#039;revient xD
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2083049742">
+		<title>Commentaire de Jup</title>
+				<link>https://fotoxx.skyrock.com/963778912_comment_1.html#c-2083049742</link>
+		<dc:date>2007-06-14T21:19:20+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Jup</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Ca marche :D
+Le trou c&#039;était notre &#039;porte&#039; personnelle :p 
+Juste en dessous de où Manon a marqué &quot;Alex a une grosse bite&quot; :p
+Là ou on passait tout le temps, ça te revient ? xD</description>
+		<content:encoded><![CDATA[
+			Ca marche :D<br />
+Le trou c&#039;était notre &#039;porte&#039; personnelle :p <br />
+Juste en dessous de où Manon a marqué &quot;Alex a une grosse bite&quot; :p<br />
+Là ou on passait tout le temps, ça te revient ? xD
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2071727208">
+		<title>Commentaire de Bob D</title>
+				<link>https://fotoxx.skyrock.com/963778912_comment_1.html#c-2071727208</link>
+		<dc:date>2007-06-13T20:39:12+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Bob D</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Alz ju&#039; on s&#039;fera un scéance rien qu&#039;à deux =D j&#039;prends mille fotos de toi, t&#039;en prends mille de moi puis on en fait mille autres à deux :D faudra qu&#039;on s&#039;arrange pcq nos horaires collent pas vraiment [tu m&#039;comprends ^^]..
+B&#039;zuuuu poulette !!
+[c&#039;est quoi cette histoire de trou encore ??]</description>
+		<content:encoded><![CDATA[
+			Alz ju&#039; on s&#039;fera un scéance rien qu&#039;à deux =D j&#039;prends mille fotos de toi, t&#039;en prends mille de moi puis on en fait mille autres à deux :D faudra qu&#039;on s&#039;arrange pcq nos horaires collent pas vraiment [tu m&#039;comprends ^^]..<br />
+B&#039;zuuuu poulette !!<br />
+[c&#039;est quoi cette histoire de trou encore ??]
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2069378318">
+		<title>Commentaire de imagine-aire</title>
+				<link>https://fotoxx.skyrock.com/963778912_comment_1.html#c-2069378318</link>
+		<dc:date>2007-06-13T18:34:57+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>imagine-aire</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>le fameu petit trou ! Ptain mais j&#039;ai quand meme trop stressé :p
+
+Beauvaaaaaaaaaal &lt;33</description>
+		<content:encoded><![CDATA[
+			le fameu petit trou ! Ptain mais j&#039;ai quand meme trop stressé :p<br />
+<br />
+Beauvaaaaaaaaaal &lt;33
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2060913536">
+		<title>Commentaire de Ju</title>
+				<link>https://fotoxx.skyrock.com/963778912_comment_1.html#c-2060913536</link>
+		<dc:date>2007-06-12T22:03:48+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Ju</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>C&#039;est pour ça qu&#039;on attend tous impatiemment que tu sois chef :D
+Mais faudra pas que tu te fasse virer à ton tour ^^
+Puis si Yackalvirer arrive on sortira tous par le ptit trou :D</description>
+		<content:encoded><![CDATA[
+			C&#039;est pour ça qu&#039;on attend tous impatiemment que tu sois chef :D<br />
+Mais faudra pas que tu te fasse virer à ton tour ^^<br />
+Puis si Yackalvirer arrive on sortira tous par le ptit trou :D
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2057448370">
+		<title>Commentaire de braccowashere</title>
+				<link>https://fotoxx.skyrock.com/963778912_comment_1.html#c-2057448370</link>
+		<dc:date>2007-06-12T19:02:35+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>braccowashere</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Putain avec vos têtes ca se voit qu&#039;on ne s emmerde pas avec vous et je le confirme avec les quelqes soirées que j ai passées avec vous trop bons moments, faudrais qu on se refasse tout cela mais faudra penser aussi a avoir un local :p
+allez a+ tout le monde 
+P.S.: Bon choix pour la music :p.</description>
+		<content:encoded><![CDATA[
+			Putain avec vos têtes ca se voit qu&#039;on ne s emmerde pas avec vous et je le confirme avec les quelqes soirées que j ai passées avec vous trop bons moments, faudrais qu on se refasse tout cela mais faudra penser aussi a avoir un local :p<br />
+allez a+ tout le monde <br />
+P.S.: Bon choix pour la music :p.
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/963778912_comment_1.html#c-2056785040">
+		<title>Commentaire de Ju</title>
+				<link>https://fotoxx.skyrock.com/963778912_comment_1.html#c-2056785040</link>
+		<dc:date>2007-06-12T18:29:05+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Ju</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Pour répondre à Bob : CAP! :D
+</description>
+		<content:encoded><![CDATA[
+			Pour répondre à Bob : CAP! :D<br />
+
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

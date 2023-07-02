@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> 16.09.07 - Commentaires</title>
+  <description></description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3131094138" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3116697566" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3102050728" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3101885900" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3093273740" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3131094138">
+		<title>Commentaire de CELINNNE</title>
+				<link>https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3131094138</link>
+		<dc:date>2007-09-21T17:38:39+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>CELINNNE</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Hahahaha :D</description>
+		<content:encoded><![CDATA[
+			Hahahaha :D
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3116697566">
+		<title>Commentaire de Lena</title>
+				<link>https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3116697566</link>
+		<dc:date>2007-09-19T17:17:24+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Lena</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Ahaha Cé =D</description>
+		<content:encoded><![CDATA[
+			Ahaha Cé =D
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3102050728">
+		<title>Commentaire de Steen</title>
+				<link>https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3102050728</link>
+		<dc:date>2007-09-17T20:22:34+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Steen</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Subtile ton message gaet ;))</description>
+		<content:encoded><![CDATA[
+			Subtile ton message gaet ;))
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3101885900">
+		<title>Commentaire de céline</title>
+				<link>https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3101885900</link>
+		<dc:date>2007-09-17T20:13:04+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>céline</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>On s&#039;en fou :D:D (hahahahaha)
+23/04 hein;)</description>
+		<content:encoded><![CDATA[
+			On s&#039;en fou :D:D (hahahahaha)<br />
+23/04 hein;)
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3093273740">
+		<title>Commentaire de wombat</title>
+				<link>https://fotoxx.skyrock.com/1213751662_comment_1.html#c-3093273740</link>
+		<dc:date>2007-09-16T19:17:13+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>wombat</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>heum c&#039;etais le 15.09 mais alz on s&#039;en fou:d
+bizzzouu</description>
+		<content:encoded><![CDATA[
+			heum c&#039;etais le 15.09 mais alz on s&#039;en fou:d<br />
+bizzzouu
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

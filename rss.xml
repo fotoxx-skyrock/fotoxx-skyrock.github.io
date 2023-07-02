@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title>Photos de Faux-Tox&#039; :D</title>
+  <description><![CDATA[That&#039;s the way we get by (8)
+
+And we love it ! xD
+
+Pour ne rien oublier,
+
+De tous ces moments.
+
+Parce qu&#039;on s&#039;aiiime (Ouais ouais vrmt) :D
+
+Sept.08: Piiiis
+
+
+
+
+]]></description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+  
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966600243.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966598299.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966595365.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966592697.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966587827.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966585715.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966582515.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966580041.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966577373.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966574795.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966569561.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966563179.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966555653.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966541797.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966537137.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966533119.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966528383.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966524865.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966521823.html" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/article_1966519273.html" />
+      </rdf:Seq>
+  </items>
+</channel>
+      <item rdf:about="https://fotoxx.skyrock.com/1966600243-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966600243-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:21:01+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966600243-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966600243_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966598299-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966598299-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:21:10+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966598299-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966598299_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966595365-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966595365-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:21:18+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966595365-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966595365_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966592697-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966592697-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:21:43+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966592697-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966592697_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966587827-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966587827-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:22:21+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966587827-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966587827_2.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966585715-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966585715-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:22:41+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966585715-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966585715_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966582515-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966582515-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:22:52+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966582515-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966582515_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966580041-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966580041-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:23:04+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966580041-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966580041_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966577373-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966577373-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:23:14+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966577373-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966577373_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966574795-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966574795-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:23:25+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966574795-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966574795_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966569561-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966569561-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:23:37+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966569561-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966569561_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966563179-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966563179-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:24:05+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966563179-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966563179_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966555653-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966555653-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2023-06-28T14:33:32+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966555653-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966555653_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966541797-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966541797-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:24:49+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966541797-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966541797_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966537137-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966537137-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:25:03+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966537137-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966537137_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966533119-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966533119-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:25:14+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966533119-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966533119_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966528383-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966528383-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:25:33+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966528383-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966528383_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966524865-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966524865-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:25:42+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966524865-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966524865_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966521823-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966521823-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:25:53+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966521823-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966521823_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+      <item rdf:about="https://fotoxx.skyrock.com/1966519273-Soiree-18-aout-chez-Justine.html">
+            <title>Soirée 18 août chez Justine</title>
+		<link>https://fotoxx.skyrock.com/1966519273-Soiree-18-aout-chez-Justine.html</link>
+		<dc:date>2008-08-20T23:26:45+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>fotoxx</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description></description>
+				<content:encoded>
+				&lt;p&gt;&lt;a href=&quot;https://fotoxx.skyrock.com/1966519273-Soiree-18-aout-chez-Justine.html&quot;&gt;&lt;img align=&quot;left&quot; src=&quot;https://wir.skyrock.net/wir/v1/resize/?c=isi&amp;im=%2F3127%2F19583127%2Fpics%2F1966519273_1.jpg&amp;w=100&amp;h=100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;/p&gt;
+		
+		</content:encoded>
+	    </item>
+  </rdf:RDF>

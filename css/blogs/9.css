@@ -1,0 +1,71 @@
+.bloc, .sidebar, .bloc_title, #promos_ads h2, #promos_ads, .pagination {
+    font-size: 10px;
+    font-family: "Verdana", "Arial", "Helvetica", sans-serif;
+	font-weight: normal;
+}
+.bloc_title, #promos_ads h2, #blogwhois .blogtitle, #blogwhois .description {
+    text-align: left;
+}
+.bloc .date {
+    padding: 0.5em 0.7em;
+}
+
+/* Borders */
+.bloc, .sidebar, #currentbp a, #changebp a, #promos_ads, .widget, .phylactere, .bloc-description {
+	border-color: #000 !important;
+}
+.liste-actions li {
+	border: none;
+}
+.title_tooltip .pointe_border {
+    border-top-color: #01669A;
+}
+
+/* Backgrounds */
+.consult, .consult, .widget, .phylactere, .compteurs_block li, .section_box {
+	background: #fff;
+}
+#currentbp a, .sidebar, #changebp a:hover, .date, .bloc_title, #promos_ads h2, #load-more a, .bloc-description {
+	background: #ccc;
+}
+.pop #blogcomments .bloc {
+	background: #fff;
+}
+.title_tooltip {
+    background: #01669A;
+}
+
+/* Links & colours */
+.bloc, .sidebar, .pop, .bloc_title a.plink, .liste-actions a:hover, #cybercop a:hover, .pagination a, .sidebar h3 a, #load-more a, 
+.bloc-description {
+    color: #000;
+}
+.bloc a, .sidebar a , .pop a, .date a, .suite, #bloginfo em, .pagination li.current a, .pagination a:hover,  #changebp a, 
+#currentbp a, .phylactere a {
+	color: #01669A;
+}
+.title_tooltip, .title_tooltip:hover {/* pour le titre archives, overridé par .bloc a */
+    color: #fff !important;
+}
+
+/* Nouveaux ciblages pour les bulles de MOOD */
+.phylactere.top_left .pointe_border {
+    border-bottom-color: #000;
+}
+.phylactere.top_left .pointe_bg {
+    border-bottom-color: #fff;
+}
+.phylactere.left .pointe_border {
+    border-right-color: #000;
+}
+.phylactere.left .pointe_bg {
+    border-right-color: #fff;
+}
+.righty .phylactere.left .pointe_border,
+.righty_one.content_large .phylactere.left .pointe_border {
+    border-left-color: #000;
+}
+.righty .phylactere.left .pointe_bg,
+.righty_one.content_large .phylactere.left .pointe_bg {
+    border-left-color: #fff;
+}

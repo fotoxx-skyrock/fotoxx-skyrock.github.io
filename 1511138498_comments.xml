@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title>  18 Janvier 08   - Commentaires</title>
+  <description></description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4793501050" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4779536630" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4642686206" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4634832676" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4793501050">
+		<title>Commentaire de Robin</title>
+				<link>https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4793501050</link>
+		<dc:date>2008-02-12T20:25:00+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Robin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Mais TG gros navet =D Sans moi elle serait nulle ta foto :D [Pssstt on gère le sujet Kooks, j&#039;ai un plan !! ]</description>
+		<content:encoded><![CDATA[
+			Mais TG gros navet =D Sans moi elle serait nulle ta foto :D [Pssstt on gère le sujet Kooks, j&#039;ai un plan !! ]
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4779536630">
+		<title>Commentaire de Len-aah</title>
+				<link>https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4779536630</link>
+		<dc:date>2008-02-11T19:13:29+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Len-aah</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Grââce à qui à ton avis gros naaaaze :D</description>
+		<content:encoded><![CDATA[
+			Grââce à qui à ton avis gros naaaaze :D
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4642686206">
+		<title>Commentaire de Robin</title>
+				<link>https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4642686206</link>
+		<dc:date>2008-01-31T20:27:49+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Robin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>C&#039;qui est bien c&#039;est qu&#039;on vous voit bien =D </description>
+		<content:encoded><![CDATA[
+			C&#039;qui est bien c&#039;est qu&#039;on vous voit bien =D 
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4634832676">
+		<title>Commentaire de Jup</title>
+				<link>https://fotoxx.skyrock.com/1511138498_comment_1.html#c-4634832676</link>
+		<dc:date>2008-01-30T22:07:05+01:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Jup</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Putain de vodka xD</description>
+		<content:encoded><![CDATA[
+			Putain de vodka xD
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

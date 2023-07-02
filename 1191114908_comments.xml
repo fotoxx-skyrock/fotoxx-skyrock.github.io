@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> *** - Commentaires</title>
+  <description>Pour continuer dans l&#039;inhabituel Ju :)
+Jdois bien être la moins présente, mais je voulais que vous sachiez que malgré tout jvous porte dans mon coeur et que vous y avez chacun votre place.
+Que vous sachiez aussi que vous pouvez compter sur moi pour quoique ce soit malgré cette PUTAIN de distance de merde :). Vous vous imaginez pas a quel point j&#039;ai envie de vous voir.
+Je le montre peut-être pas souvent mais je tiens très fort a vous.
+Bonne rentrée et on svoit vite j&#039;espere.
+Bisouus &lt;3&lt;3&lt;3.
+
+Orné.</description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1191114908_comment_1.html#c-3072763324" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1191114908_comment_1.html#c-2992280336" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1191114908_comment_1.html#c-2987789666" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1191114908_comment_1.html#c-3072763324">
+		<title>Commentaire de Loris</title>
+				<link>https://fotoxx.skyrock.com/1191114908_comment_1.html#c-3072763324</link>
+		<dc:date>2007-09-14T23:41:54+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Loris</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>C&#039;est con que c&#039;est le Ramadan sinon jt&#039;aurais envoyer un bisou par le net mais là ca va pas être possible dsl.
+</description>
+		<content:encoded><![CDATA[
+			C&#039;est con que c&#039;est le Ramadan sinon jt&#039;aurais envoyer un bisou par le net mais là ca va pas être possible dsl.<br />
+
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1191114908_comment_1.html#c-2992280336">
+		<title>Commentaire de Jup</title>
+				<link>https://fotoxx.skyrock.com/1191114908_comment_1.html#c-2992280336</link>
+		<dc:date>2007-09-05T14:33:01+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Jup</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Ca m&#039;fait plaisir que des gens pensent un peu comme moi =)
+On s&#039;voit le plus vite possible.!
+&lt;3</description>
+		<content:encoded><![CDATA[
+			Ca m&#039;fait plaisir que des gens pensent un peu comme moi =)<br />
+On s&#039;voit le plus vite possible.!<br />
+&lt;3
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1191114908_comment_1.html#c-2987789666">
+		<title>Commentaire de Robin coin-coin</title>
+				<link>https://fotoxx.skyrock.com/1191114908_comment_1.html#c-2987789666</link>
+		<dc:date>2007-09-04T21:25:45+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Robin coin-coin</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Haaa =D Ca fait trop longtemps vieille mijolle =) à bientôt hiin !!
+Bisouuu&#039; x)</description>
+		<content:encoded><![CDATA[
+			Haaa =D Ca fait trop longtemps vieille mijolle =) à bientôt hiin !!<br />
+Bisouuu&#039; x)
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> BBQ chez wombat avant la palm - Commentaires</title>
+  <description></description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1166877228_comment_1.html#c-2943474606" />
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1166877228_comment_1.html#c-2940850970" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1166877228_comment_1.html#c-2943474606">
+		<title>Commentaire de Pop</title>
+				<link>https://fotoxx.skyrock.com/1166877228_comment_1.html#c-2943474606</link>
+		<dc:date>2007-09-01T15:16:23+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Pop</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Et moi j&#039;t&#039;E.A.P. :D</description>
+		<content:encoded><![CDATA[
+			Et moi j&#039;t&#039;E.A.P. :D
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1166877228_comment_1.html#c-2940850970">
+		<title>Commentaire de OSLO</title>
+				<link>https://fotoxx.skyrock.com/1166877228_comment_1.html#c-2940850970</link>
+		<dc:date>2007-09-01T12:10:15+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>OSLO</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Juuuu J&#039;te POP &lt;3</description>
+		<content:encoded><![CDATA[
+			Juuuu J&#039;te POP &lt;3
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

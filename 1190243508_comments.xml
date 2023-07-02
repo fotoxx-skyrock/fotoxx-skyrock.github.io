@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://fotoxx.skyrock.com/">
+  <title> Soirée chez BoRF - Commentaires</title>
+  <description>Vidéo.</description>
+  <link>https://fotoxx.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>fotoxx</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-06-28T14:45:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-06-28T14:45:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://fotoxx.skyrock.com/1190243508_comment_1.html#c-3057635450" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://fotoxx.skyrock.com/1190243508_comment_1.html#c-3057635450">
+		<title>Commentaire de Bère</title>
+				<link>https://fotoxx.skyrock.com/1190243508_comment_1.html#c-3057635450</link>
+		<dc:date>2007-09-12T21:38:59+02:00</dc:date>
+		<dc:language>fr</dc:language>
+		<dc:creator>Bère</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Et ouai les photo suivent plus la :D on voit bien que c&#039;est le retour a l&#039;école hein :p
+Allé bon courage a vous toutes pour cette nouvelle année scolaire qui va suivre:))
+J&#039;vous bisoute très fort! ;)
+Albert</description>
+		<content:encoded><![CDATA[
+			Et ouai les photo suivent plus la :D on voit bien que c&#039;est le retour a l&#039;école hein :p<br />
+Allé bon courage a vous toutes pour cette nouvelle année scolaire qui va suivre:))<br />
+J&#039;vous bisoute très fort! ;)<br />
+Albert
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>
